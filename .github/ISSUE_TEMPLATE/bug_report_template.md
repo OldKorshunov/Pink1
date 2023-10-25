@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 
 ---
+# [BR-ID] : Title of the bug report
 
 **Date Time**
 DD-MM-YYYY HH:MM
